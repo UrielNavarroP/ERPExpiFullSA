@@ -1,0 +1,73 @@
+﻿Task ID,Created At,Completed At,Last Modified,Name,Section/Column,Assignee,Assignee Email,Start Date,Due Date,Tags,Notes,Projects,Parent task,Blocked By (Dependencies),Blocking (Dependencies),Prioridad,Estado
+1210495824578874,2025-06-09,,2025-06-09,Coordinar Equipo,Scrum Master,uriel navarro,nathan.nav201502@gmail.com,2025-06-09,2025-06-10,,,ERP EcpoFull S.A,,,,Alto,Finalizado
+1210495824578876,2025-06-09,,2025-06-09,Asignar Tareas,Scrum Master,uriel navarro,nathan.nav201502@gmail.com,2025-06-10,2025-06-22,,,ERP EcpoFull S.A,,,,Alto,En curso
+1210495824578878,2025-06-09,,2025-06-09,Monitorear avances,Scrum Master,uriel navarro,nathan.nav201502@gmail.com,2025-06-11,2025-07-20,,,ERP EcpoFull S.A,,,,Alto,En curso
+1210495824578890,2025-06-09,,2025-06-09,Tester Etapa Inicial,QA Tester,pedroolvera@gmail.com,pedroolvera@gmail.com,2025-06-11,2025-07-20,,,ERP EcpoFull S.A,,,,Medio,En riesgo
+1210495824578897,2025-06-09,,2025-06-09,Programar logica del sistema,Backen Dev,matiaseduardo@gmail.com,matiaseduardo@gmail.com,2025-06-21,2025-07-10,,,ERP EcpoFull S.A,,,,Alto,En riesgo
+1210495824578899,2025-06-09,,2025-06-09,base de datos,Backen Dev,matiaseduardo@gmail.com,matiaseduardo@gmail.com,2025-06-15,2025-06-20,,,ERP EcpoFull S.A,,,,,
+1210495824578907,2025-06-09,,2025-06-09,Diseñar interfaces,Frontend Dev,jaredsalgado@gmail.com,jaredsalgado@gmail.com,2025-06-15,2025-06-20,,,ERP EcpoFull S.A,,,,Alto,En curso
+1210495824578909,2025-06-09,,2025-06-09,pos,Frontend Dev,jaredsalgado@gmail.com,jaredsalgado@gmail.com,,,,,ERP EcpoFull S.A,,,,,
+1210495824578911,2025-06-09,,2025-06-09,registro,Frontend Dev,jaredsalgado@gmail.com,jaredsalgado@gmail.com,,,,,ERP EcpoFull S.A,,,,,
+1210495824578913,2025-06-09,,2025-06-09,reportes,Frontend Dev,jaredsalgado@gmail.com,jaredsalgado@gmail.com,2025-06-11,2025-07-20,,,ERP EcpoFull S.A,,,,Alto,En curso
+1210495824578926,2025-06-09,,2025-06-09,levantar requerimientos,Analista,aitxelsalgado@gmail.com,aitxelsalgado@gmail.com,2025-06-10,2025-06-14,,,ERP EcpoFull S.A,,,,Alto,En curso
+1210495824578928,2025-06-09,,2025-06-09,validar entregas,Analista,aitxelsalgado@gmail.com,aitxelsalgado@gmail.com,2025-07-21,2025-07-25,,,ERP EcpoFull S.A,,,,Alto,Con retraso
+1210495824274707,2025-06-08,2025-06-08,2025-06-08,Financieros,Componentes del sistema,aitxelsalgado@gmail.com,aitxelsalgado@gmail.com,,2025-06-02,,"Presupuesto : $800,000
+Licencia Asana :$60,000
+Costos de desarrollo $200,000 
+Mantenimiento : $ 95,000
+Licencias $100,000
+Infraestructura $300,000
+Capacitación. $45,000
+
+",ERP EcpoFull S.A,,,,Alto,Finalizado
+1210495824274709,2025-06-08,2025-06-08,2025-06-08,Administrativos,Componentes del sistema,uriel navarro,nathan.nav201502@gmail.com,2025-05-27,2025-06-09,,"Procesos de gestión: cada día se dará seguimiento
+Políticas internas: Horario puntual, confidencialidad
+Documentación: Permisos del Gobierno, Procesos Legales
+Cumplimiento normativo: Documentación Aprobada",ERP EcpoFull S.A,,,,Alto,Finalizado
+1210495824274711,2025-06-08,2025-06-08,2025-06-09,Humanos,Componentes del sistema,aitxelsalgado@gmail.com,aitxelsalgado@gmail.com,,2025-06-02,,"Equipo de desarrollo: 5 Desarrolladores  3 Senior y 2 Junior
+Usuarios finales: ExpoFull S.A
+Capacitación: 3 Días 
+soporte técnico: 24/7 via CORIMA",ERP EcpoFull S.A,,,,Alto,Finalizado
+1210495824274713,2025-06-08,2025-06-08,2025-06-08,Materiales,Componentes del sistema,eduardoguzman@gmail.com,eduardoguzman@gmail.com,,2025-06-02,,"Servidores: ya instalados y funcionando 
+Dispositivos de almacenamiento: ya preparados y analizados sin errores de lectura o escritura
+Equipos de cómputo: Instalados con las respectivas licencias
+Redes: conectadas al servidor y a los equipos de computo",ERP EcpoFull S.A,,,,Medio,Finalizado
+1210495824274715,2025-06-08,2025-06-08,2025-06-08,Tecnologicos,Componentes del sistema,jordichavezr@gmail.com,jordichavezr@gmail.com,,2025-06-03,,"Lenguajes de programación: listo y preparado en los equipo de computo
+Bases de datos: listos
+Frameworks: todo listo
+Seguridad informática: perfectamente configurado sin ninguna fuga de información o intruso no deseado
+Conectividad: sin falla y conexión altamente rápido y eficaz",ERP EcpoFull S.A,,,,Medio,Finalizado
+1210482125669543,2025-06-06,2025-06-08,2025-06-08,Pantalla de acceso,Tareas y Subtareas,uriel navarro,nathan.nav201502@gmail.com,2025-06-06,2025-06-10,,"Diseño UI 
+Seguridad
+Autenticación",ERP EcpoFull S.A,,,,Bajo,En curso
+1210482126561248,2025-06-06,2025-06-08,2025-06-08,Registro de clientes,Tareas y Subtareas,eduardoguzman@gmail.com,eduardoguzman@gmail.com,2025-06-03,2025-06-08,,"Base de datos: nombre, apellidos, fecha nacimiento, dirección, teléfono, correo
+Interfaz de registro
+carritos de compra
+lista de deseos",ERP EcpoFull S.A,,,,Alto,En curso
+1210482126561250,2025-06-06,2025-06-08,2025-06-08,Registro de empleados,Tareas y Subtareas,eduardoguzman@gmail.com,eduardoguzman@gmail.com,2025-05-27,2025-06-03,,"ID
+Password
+Administración de roles
+Permisos
+
+",ERP EcpoFull S.A,,,,Alto,Finalizado
+1210482125669545,2025-06-06,2025-06-08,2025-06-08,Punto de Venta,Tareas y Subtareas,sharonnatalin@gmail.com,sharonnatalin@gmail.com,2025-06-09,2025-06-11,,"Integración con inventarios
+Facturación
+Métodos de pago
+Dirección de envió",ERP EcpoFull S.A,,,,Medio,En riesgo
+1210482126561239,2025-06-06,2025-06-08,2025-06-08,Módulo de compras,Tareas y Subtareas,jordichavezr@gmail.com,jordichavezr@gmail.com,2025-06-10,2025-06-12,,"Gestión de proveedores
+Pedidos automáticos",ERP EcpoFull S.A,,,,Alto,Con retraso
+1210482126561252,2025-06-06,2025-06-08,2025-06-08,"Generación de reportes de compras, ventas e inventarios",Tareas y Subtareas,aitxelsalgado@gmail.com,aitxelsalgado@gmail.com,2025-06-03,2025-06-09,,"    Diseño de reportes
+    Exportación de datos
+    Fechas de compra
+    
+",ERP EcpoFull S.A,,,,Medio,En curso
+1210482126561254,2025-06-06,2025-06-09,2025-06-09,Gestión de inventarios,Tareas y Subtareas,aitxelsalgado@gmail.com,aitxelsalgado@gmail.com,,2025-06-10,,"Control de stock
+Alertas de productos agotados
+Surtido electrónico
+
+",ERP EcpoFull S.A,,,,Alto,En curso
+1210500980155737,2025-06-09,2025-06-09,2025-06-09,Crear repositorio del proyecto,Control de versiones con GitHub,jaredsalgado@gmail.com,jaredsalgado@gmail.com,,,,,ERP EcpoFull S.A,,,,Alto,Finalizado
+1210500980155739,2025-06-09,2025-06-09,2025-06-09,"Crear ramas para cada módulo (Ventas, Compras, Reportes, etc.)",Control de versiones con GitHub,jaredsalgado@gmail.com,jaredsalgado@gmail.com,,,,,ERP EcpoFull S.A,,,,Alto,Finalizado
+1210500980155741,2025-06-09,2025-06-09,2025-06-09,Conectar con VS Code,Control de versiones con GitHub,jaredsalgado@gmail.com,jaredsalgado@gmail.com,,,,,ERP EcpoFull S.A,,,,Alto,Finalizado
+1210500980155743,2025-06-09,2025-06-09,2025-06-09,Hacer seguimiento de commits y pull requests,Control de versiones con GitHub,jaredsalgado@gmail.com,jaredsalgado@gmail.com,,,,,ERP EcpoFull S.A,,,,Alto,Finalizado
+1210495824274719,2025-06-08,,2025-06-09,Asana,Herramienta de Gestion,uriel navarro,nathan.nav201502@gmail.com,2025-05-27,2025-06-09,,,ERP EcpoFull S.A,,,,Alto,Finalizado
